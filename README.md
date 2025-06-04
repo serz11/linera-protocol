@@ -147,3 +147,5 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request
 
 For detailed guidelines, see our [contribution guide](https://linera.dev/getting-started/contributing).
+git commit -m "Update README with year: 2025"
+
